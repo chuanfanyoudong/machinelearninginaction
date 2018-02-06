@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="131355a0-1092-4e2a-b677-6e1e617a7023" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Ch02/asdfad.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/新建文本文档.txt" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -135,11 +135,6 @@
               <item name="machinelearninginaction" type="b2602c69:ProjectViewProjectNode" />
               <item name="machinelearninginaction" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="machinelearninginaction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="machinelearninginaction" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch02" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -259,7 +254,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517883333414</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="删除">
+      <created>1517884902017</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1517884902017</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -293,7 +295,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="我的提交测试" />
     <MESSAGE value="我瞎测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="我瞎测试" />
+    <MESSAGE value="删除" />
+    <option name="LAST_COMMIT_MESSAGE" value="删除" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
